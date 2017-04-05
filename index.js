@@ -1,0 +1,1 @@
+//$("#cloudshape").velocity({ fill: "#ff0000", stroke: "#000000" });
